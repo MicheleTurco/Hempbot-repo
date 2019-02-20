@@ -23,6 +23,6 @@ Hempbot is especially designed to give children a toy that is safe in the materi
 3.Arduino Uno or a fabbable compatibile board like Satshakit, ![More info here](https://github.com/satshakit/), 
 4. Adafruit Motor Shield v1.2, 4 x Bi-directional DC Motor, Ultrasonic Sensor Module.
 
-![**News and Press** ](https://impact.startupitalia.eu/2018/12/27/kromlaboro-bioplastiche-educazione/?fbclid=IwAR1AKOUJcd_O2mnEArhbiF0Jf9geNWP2ugj7lOwscNw4Va6bpL41Nm5IOrg)
+![**News and Press** ](https://impact.startupitalia.eu/2018/12/27/kromlaboro-bioplastiche-educazione/)
 
 # Attention this repository is constantly updated
